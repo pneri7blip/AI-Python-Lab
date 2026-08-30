@@ -29,7 +29,7 @@ The new Aurora Wireless Headphones are available for €129.99 and are currently
         "availability": "in stock"
         }
         ```
-
+        
         ## What I Learned
 
         Requesting a structured format such as JSON makes AI output more predictable and easier for applications to process programmatically.
