@@ -30,6 +30,6 @@ The new Aurora Wireless Headphones are available for €129.99 and are currently
         }
 ```
         
-        ## What I Learned
+## What I Learned
 
-        Requesting a structured format such as JSON makes AI output more predictable and easier for applications to process programmatically.
+Requesting a structured format such as JSON makes AI output more predictable and easier for applications to process programmatically.
