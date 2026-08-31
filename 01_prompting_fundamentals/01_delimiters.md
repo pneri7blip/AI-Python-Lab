@@ -14,8 +14,8 @@ Il prodotto è arrivato ieri, ma la confezione era danneggiata.
 
 ## Expected Output
 
-The model should translate only the text inside the delimiters.
+The product arrived yesterday, but the packaging was damaged.
 
 ## What I Learned
 
-Delimiters help structure prompts and clearly distinguish instructions from the content provided to the model.
+Delimiters help structure prompts and clearly distinguish instructions from the content provided to the model, ensuring that the model processes only the intended text.
