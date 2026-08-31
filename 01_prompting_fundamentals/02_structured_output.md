@@ -28,7 +28,7 @@ The new Aurora Wireless Headphones are available for €129.99 and are currently
       "currency": "EUR",
         "availability": "in stock"
         }
-        ```
+```
         
         ## What I Learned
 
