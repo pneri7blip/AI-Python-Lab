@@ -20,6 +20,6 @@ The headphones sound excellent, but they arrived three days later than expected.
 YES
 ```
 
-## What I Learned
+## Key Takeaway
 
 A prompt can ask the model to check a specific condition before generating its answer. Explicitly defining the condition and the expected output makes the model's response more consistent and easier to evaluate.
