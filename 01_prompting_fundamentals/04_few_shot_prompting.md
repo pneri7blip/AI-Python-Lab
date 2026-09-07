@@ -21,6 +21,6 @@ Sentiment:
 
 Neutral
 
-## What I Learned
+## Key Takeaway
 
 Providing examples directly in the prompt helps the model understand the expected pattern and produce more consistent results. This technique is known as few-shot prompting.
