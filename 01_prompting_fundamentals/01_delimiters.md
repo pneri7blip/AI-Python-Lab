@@ -16,6 +16,6 @@ Il prodotto è arrivato ieri, ma la confezione era danneggiata.
 
 The product arrived yesterday, but the packaging was damaged.
 
-## What I Learned
+## Key Takeaway
 
 Delimiters help structure prompts and clearly distinguish instructions from the content provided to the model, ensuring that the model processes only the intended text.
