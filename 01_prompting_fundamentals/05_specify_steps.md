@@ -38,7 +38,7 @@ JSON Output: {
 ```
 
 ## Evaluation
-Tested across two LLMs (GPT-5.6 Luna and Gemini 3.1 Pro) to evaluate prompt portability. Both models followed the step-by-step instructions and returned valid JSON matching the requested schema.
+Tested across two LLMs (**GPT-5.6 Luna** and **Gemini 3.1 Pro**) to evaluate prompt portability. Both models followed the step-by-step instructions and returned valid JSON matching the requested schema.
 
 ## Key Takeaway
 Breaking the task into clear steps helps the model handle each part of the request without skipping important details. Defining the output structure also makes the result easier to read and process programmatically.
