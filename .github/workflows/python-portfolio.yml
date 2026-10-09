@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - install_python_portfolio.py
+      - lab_forge.py
       - .github/workflows/python-portfolio.yml
 
 permissions:
@@ -23,7 +23,7 @@ jobs:
           python-version: '3.x'
 
       - name: Run portfolio installer
-        run: python install_python_portfolio.py
+        run: python lab_forge.py
 
       - name: Commit generated portfolio files
         run: |
